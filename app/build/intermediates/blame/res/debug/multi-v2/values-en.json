@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mateus Zingler\\AndroidStudioProjects\\CriadouroDaColina\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mateus Zingler\\AndroidStudioProjects\\CriadouroDaColina\\app\\src\\main\\res\\values-en\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mateus Zingler\\AndroidStudioProjects\\CriadouroDaColina\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "16,6,7,1,14,17,11,10,8,9,12,4,5,2,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "783,222,278,16,685,823,546,474,333,403,610,122,169,66,733",
+                        "endColumns": "39,55,54,49,47,66,63,71,69,70,73,46,52,54,49",
+                        "endOffsets": "818,273,328,61,728,885,605,541,398,469,679,164,217,116,778"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "313,353,409,464,514,562,629,693,765,835,906,980,1027,1080,1135",
+                        "endColumns": "39,55,54,49,47,66,63,71,69,70,73,46,52,54,49",
+                        "endOffsets": "348,404,459,509,557,624,688,760,830,901,975,1022,1075,1130,1180"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mateus Zingler\\AndroidStudioProjects\\CriadouroDaColina\\app\\src\\main\\res\\values-en\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,257",
+                        "endColumns": "57,55",
+                        "endOffsets": "252,308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mateus Zingler\\AndroidStudioProjects\\CriadouroDaColina\\app\\src\\main\\res\\values-en\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1185",
+                        "endLines": "27",
+                        "endColumns": "12",
+                        "endOffsets": "1499"
+                    }
+                }
+            ]
+        }
+    ]
+}

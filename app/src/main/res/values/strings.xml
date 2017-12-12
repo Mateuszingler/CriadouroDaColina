@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Criadouro Da Colina</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Logar no Sistema</string>
+    <string name="action_sign_in_short">Acessar</string>
+    <string name="error_invalid_email">Endereço de email inválido</string>
+    <string name="error_invalid_password">Senha muito curta</string>
+    <string name="error_incorrect_password">Senha incoreta</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="invalid_login">Usuário ou senha inválidos</string>
+
+    <string name="bird_list">Lista de pássaros</string>
+    <string name="type_birds">Tipos de pássaros</string>
+    <string name="about">Sobre</string>
+    <string name="developed_by">Aplicação Desenvolvida por:</string>
+
+</resources>

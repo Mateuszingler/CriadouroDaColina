@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hill Breeder</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sistem Login</string>
+    <string name="action_sign_in_short">Acess</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_password">Very short password</string>
+    <string name="error_incorrect_password">Incorrect password</string>
+    <string name="error_field_required">Required field</string>
+    <string name="invalid_login">Username or password is invalid</string>
+
+    <string name="bird_list">Bird List</string>
+    <string name="type_birds">Bird types</string>
+    <string name="about">About</string>
+    <string name="developed_by">Application Developed by:</string>
+</resources>

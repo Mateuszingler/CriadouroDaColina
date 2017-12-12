@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Creador de la columna</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión en el sistema</string>
+    <string name="action_sign_in_short">Acceder</string>
+    <string name="error_invalid_email"> Dirección de correo electrónico no válida</string>
+    <string name="error_invalid_password"> Contraseña muy corta</string>
+    <string name="error_incorrect_password">Contraseña incora</string>
+    <string name="error_field_required">Campo obligatorio</string>
+    <string name="invalid_login">Usuario o contraseña no válida </string>
+
+    <string name="bird_list">Lista de pájaros</string>
+    <string name="type_birds">Tipos de pájaros</string>
+    <string name="about">Sobre</string>
+    <string name="developed_by">Aplicación Desarrollada por:</string>
+</resources>

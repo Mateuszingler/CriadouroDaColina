@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about">About</string>
+    <string name="action_sign_in">Sistem Login</string>
+    <string name="action_sign_in_short">Acess</string>
+    <string name="app_name">Hill Breeder</string>
+    <string name="bird_list">Bird List</string>
+    <string name="developed_by">Application Developed by:</string>
+    <string name="error_field_required">Required field</string>
+    <string name="error_incorrect_password">Incorrect password</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_password">Very short password</string>
+    <string name="invalid_login">Username or password is invalid</string>
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_login">Login</string>
+    <string name="type_birds">Bird types</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
